@@ -28,6 +28,10 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+   flutter_staggered_animations: ^1.1.1  # للحركات المميزة
+  audioplayers: ^5.0.0                   # للأصوات
+  shared_preferences: ^2.2.2             # لحفظ النتائج
+  flutter_card_swiper: ^6.0.0           # لحركات البطاقات
   cupertino_icons: ^1.0.8
   flutter:
     sdk: flutter
